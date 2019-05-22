@@ -1,5 +1,5 @@
 Predicting Unethical Physician Behavior At Scale: A Distributed Computing Framework
-
+===================================================================================
 As the amount of publicly shared data increases,
 developing a robust pipeline to stream, store and process data is critical, as the casual user often lacks the technology, hardware 
 and/or skills needed to work with such voluminous data. Inthis research, the authors employ Amazon EC2 and EMR, MongoDB, 

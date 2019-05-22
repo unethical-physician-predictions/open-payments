@@ -12,9 +12,7 @@ Welcome to Open_Payments's documentation!
 
    introduction
    authors
-   requirements
    tutorial
-   apiReference
 
 Indices and tables
 ==================
