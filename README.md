@@ -31,6 +31,7 @@ On Audit List:
 |m4.xlarge | 2 | 16GB  | 4  | n/a |
 
 On Anomaly Detection:
+
 | Master/Slave Config | \# Slaves | Memory | Cores | Run Time | Data | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | c3.8xlarge | 10 | 60GB | 32 | 81m | Research |
