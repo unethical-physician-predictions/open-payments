@@ -1,6 +1,6 @@
 # Open payments
 
-For information regarding how to run the code on an EC2 instance check the [documentation (link to be updated)](https://www.google.com)
+For information regarding how to run the code on an EC2 instance check the [documentation (link to be updated)](https://www.google.com).
 
 # Abstract
 
