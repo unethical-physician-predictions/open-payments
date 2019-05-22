@@ -1,5 +1,7 @@
 # Open payments
 
+This is the code for the paper [**Predicting Unethical Physician Behavior At Scale: A Distributed Computing Framework** (link to be updated)](https://www.google.com).
+
 For information regarding how to run the code on an EC2 instance check the [documentation (link to be updated)](https://www.google.com).
 
 # Abstract
