@@ -8,6 +8,10 @@ For information regarding how to run the code on an EC2 instance check the [docu
 
 As the amount of publicly shared data increases, developing a robust pipeline to stream, store and process data is critical, as the casual user often lacks the technology, hardware and/or skills needed to work such voluminous data. In this research, the authors employ Amazon EC2 and EMR, MongoDB, and Spark MLlib to explore 28.5 gigabytes of CMS Open Payments data in an attempt to identify physicians who may have a high propensity to act unethically, owing to significant transfers of wealth from medical companies. A Random Forest Classifier is employed to predict the top decile of physicians who have the highest risk of unethical behavior in the following year, resulting in an F-Score of 91\%. The authors also employ an anomaly detection algorithm that correctly identified a high-profile case of a physician leaving his prestigious position, failing to disclose anomalously-large transfers of wealth from medical companies.
 
+<p align="center">
+  <img width=400 height=350 src="https://github.com/unethical-physician-predictions/open-payments/blob/master/images/readme.jpeg">
+</p>
+
 # Introduction
 
 Sectors that deal with vast amounts of public data, such as healthcare, have long held the potential to unlock untold mysteries about the populations they serve. Until recently, the amount of data available for analysis far outstripped the abilities of both the technology and machine learning algorithms necessary to extract actionable information. Very recent advances in data and computational science have allowed researchers to tap into and identify patterns and relationships hidden in this sea of data. In healthcare, this leap has facilitated the identification of issues, both clinical and administrative, throughout the healthcare continuum.
