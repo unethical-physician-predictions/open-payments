@@ -1,6 +1,6 @@
 # Open payments
 
-This is the code for the paper [**Predicting Unethical Physician Behavior At Scale: A Distributed Computing Framework** (link to be updated)](https://repository.usfca.edu/cgi/viewcontent.cgi?article=1160&context=artsci_stu).
+This is the code for the paper [**Predicting Unethical Physician Behavior At Scale: A Distributed Computing Framework**](https://repository.usfca.edu/cgi/viewcontent.cgi?article=1160&context=artsci_stu).
 
 
 # Abstract
